@@ -31,7 +31,7 @@ def calculate_hook_constant(force, displacement):
     hook_constant = force / displacement
     return hook_constant
 
-# ورودی‌ها برای نیرو و جابه‌جایی
+# ورودی‌ها برای نیرو و جابه‌جای
 force = 50  # به نیوتن
 displacement = 5  # به متر
 
